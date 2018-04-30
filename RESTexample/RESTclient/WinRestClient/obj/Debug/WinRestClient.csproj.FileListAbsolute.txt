@@ -1,0 +1,8 @@
+E:\Projeler\Arge\NL\Binck\Prj03\RESTexample\RESTclient\WinRestClient\bin\Debug\WinRestClient.exe
+E:\Projeler\Arge\NL\Binck\Prj03\RESTexample\RESTclient\WinRestClient\bin\Debug\WinRestClient.pdb
+E:\Projeler\Arge\NL\Binck\Prj03\RESTexample\RESTclient\WinRestClient\obj\Debug\WinRestClient.csprojResolveAssemblyReference.cache
+E:\Projeler\Arge\NL\Binck\Prj03\RESTexample\RESTclient\WinRestClient\obj\Debug\WinRestClient.Form1.resources
+E:\Projeler\Arge\NL\Binck\Prj03\RESTexample\RESTclient\WinRestClient\obj\Debug\WinRestClient.Properties.Resources.resources
+E:\Projeler\Arge\NL\Binck\Prj03\RESTexample\RESTclient\WinRestClient\obj\Debug\WinRestClient.csproj.GenerateResource.Cache
+E:\Projeler\Arge\NL\Binck\Prj03\RESTexample\RESTclient\WinRestClient\obj\Debug\WinRestClient.exe
+E:\Projeler\Arge\NL\Binck\Prj03\RESTexample\RESTclient\WinRestClient\obj\Debug\WinRestClient.pdb
